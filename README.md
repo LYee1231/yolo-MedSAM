@@ -6,7 +6,6 @@ Below is the description of the custom scripts and folders added to the project.
 
 ---
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
